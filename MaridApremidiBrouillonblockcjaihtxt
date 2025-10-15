@@ -19,19 +19,23 @@ True decentralization
 All without banks, intermediaries, or permissioned access — just code and cryptography. 
 
 
-
  Sunny DeFi platform homepage — a clean, modern,
  and responsive UI that showcases core functionality while prioritizing user experience and wallet integration.
-
 
 
  complete, production-ready DeFi stack for Sunny Protocol 
  integrating frontend, backend, database, local/VPS deployment,
  real-time blockchain data, wallet integration, and advanced security.
-  The native token $SUNNY is used for gas fees on both Ethereum and Sunny Chain (a custom PoSA chain).
+ The native token $SUNNY is used for gas fees on both Ethereum and Sunny Chain (a custom PoSA chain).
 
 
-////////////////////////////
+Trading fiat to Cryto curencies'''======
+Simplex empowers individuals and businesses to buy crypto instantly with secure,
+fraud-free fiat-to-crypto transactions, trusted by millions worldwide and leading industry partners.
+
+
+
+////////////////////////////  //////////////////////
 
 python 
 path do this  Golden CMd
