@@ -110,7 +110,7 @@ Fee Model: Small trading fees distributed to liquidity providers and validators.
 
 Slippage & Price Impact Controls: To protect users during swaps.
 
-3. Lending/Borrowing Platform
+3. Lending/Borrowing Platform  
 
 Collateralized Loans: Users can lock crypto as collateral and borrow other assets.
 
@@ -207,7 +207,15 @@ Governance	Token-based on-chain voting
 
 
 
-////  ///////////////////////////////////////////////////
+////  ////////////////
+
+generate a similar Luna terra global cryptocurrency exchange blockchain protocol and payment platform that offered a variety of trading services,
+including spot, derivatives, and leveraged trading for cryptocurrencies write a solid algorithmic stablecoin in its Core
+
+
+
+
+///////////////////////////////////
 
 
 
